@@ -37,7 +37,7 @@
 //mini-, aims, compulsions (under thought content)
 
 
-//I didn't actually have any flashbacks and stuff yesterday, so I guess it's ok.
+
 
 /*
  * To change this license header, choose License Headers in Project Properties.
