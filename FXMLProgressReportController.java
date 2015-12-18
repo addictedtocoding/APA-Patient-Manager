@@ -1,41 +1,7 @@
-//phys (mat sci) , str, ps'
-//RIP/Q
 
-//CURRENT menu items (not including sub menus): 18
-
-//count the menu bar
-//add "download brainac" to the menu bar
-//add the (PN) delete option to the menu bar ONLY
-//"load" should be disabled if there is nothing to load
-
-
-
-//what particle are you poster (the sapz)
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-//those 5 in margin
-//pres, tabs, HAL ph's & resume backup
 package patientmanagerv1;
-//1) extreme self-sufficiency, 2) 1, 3) NOT merely a shift towards higher exports to imports, but rather, a shift towards a focus on/appreciation of/lifetyle oriented around existing "assets" (kinda like the lifestyle 50 yrs ago, and the g d's oriented principles and strong cultural identity, which is even more important), a greater bar on imports themselves, and the elimination of outsourcing 4) an increased focus on "assets" and qol 5)merc-istic policies?
-//similar to the condition 50 years ago
-//Germany's economic recovery post WWII
-//what truly defines an "asset": n, qol, quality, etc...
 
-//DO NOT's: be the recipient/acceptors of o-s
 
-//other precedents- t G D (I do not know if this is a valid precedent or not...)
-
-//note: "e s-s" does NOT mean o-s in reverse.
-
-//focus on qol, Wol, & vohl- this is what really makes or breaks (in the case of a lack of it) a country
-    //where cultural identity falls into this...
-
-//n r are/can be a significant part of this (recall the four tiers (factors/variables) of env influence: 1) olity 2)ng//lia 3) programming 4) managed/minimized and optimized (but sufficient) a
 
 import com.gtranslate.Audio;
 import com.gtranslate.Language;
@@ -84,52 +50,14 @@ import org.apache.poi.xwpf.usermodel.XWPFRun;
  * FXML Controller class
  *
  * @author Quiggy
- */      //crusades, inquisition (1&2 (spanish)); famous (either through bloody/disease) conversions: the conversion of the n a's, ...
-//dent torture
-//medieval torture methods (and the iron fist of the c)
-//aztecs
-
-//famous japanese torture techniques/a history of torture in japan
-//japan- a history of alternative sexuality
-//the prehistory of sex: 4 million years of human sexual culture
-
-
-//guns, germs, and steel
-
-//
-
-//applying this attitude to the extremely (read: utmost) confusing field of e s...
-
-//what are n's d's i?
-
-//how to be a good history teacher: get into the moment, examine each event in detail- a story as it unfolds
-//why india is an archaeologists nightmare
-//ktl amv, h hq
-
-
-//monty python h g sceneXD, terminator parody, ... :P
+ */
 
 
 
 
 
+//possible titles: edge of ety: precipice, edge of ety: et denied, edge of ety: ety's r
 
-//a history of Earth's n r's (millions of years of organic and inorganic ev)
-
-
-
-
-
-//possible titles: edge of ety: precipice, edge of ety: et denied, edge of ety: ety's reach/asserted/orig
-//
-//ety's reach
-
-//eternal penance/agy
-
-
-
-//making your first amv- software?
-//I have, kinda, an academic i in this...
 public class FXMLProgressReportController implements Initializable {
 
     boolean fillingFromEval = false;
@@ -264,8 +192,7 @@ public class FXMLProgressReportController implements Initializable {
     Label progressreportlabel;
     
     //breathing heavilly in rattling/ragged pants, sliding/eventually slumping down the wall and 
-    //her breaths coming in ragged, uneven pants, as her fingers found  
-    //the pulsating "burn" bwhl's.
+    
     
     /**
      * Initializes the controller class.
@@ -342,36 +269,7 @@ public class FXMLProgressReportController implements Initializable {
                 {
                     loaded = true;
                 }
-                //her lucss cves, just as beautiful in death.
                 
-                //Sitara watched her final struggles sympathetically. she was ext b, even i d.
-                //Her gaze was sympathetic.//looking/gazing down at the now cooling form in her arms sympathetically.
-                //2
-                //still containing the primordial b that it had held for...
-                
-                //"I will still continue to w beside y/wander w y...but every s I t...it hurts"
-                //"Then I look forward to the continued company/your continued company."
-                
-                
-                
-                //"...Shit!/Fuck!"
-                //Sitara made a mad dash forwards for/towards the gurgling
-                //At last, they spotted her squirming/writhing in place, the noose constricting painfully/ever more tightly about her neck., starving her brain of oxygen.
-
-                //"Sitara. Leave her."
-                //Sitara gazed/stared/looked at him as if he'd grown another head. "But whyy--" ["I thought -we came here to stop her?"]
-                //"It's too late for her now. If we were to take her down now, chances are/it is more than likely, she would have already suffered considerable brain damage from the lack of oxygen."
-                //"People have held their breath for longer--"
-                //"The damage is clearly visible. Recovery would be impossible at this point./"The damage would most probably/more than likely be irreversible.""
-                
-                
-                //"cut her loose. We'll bring h back to V. I will deliver the news to him personally."
-                //Sitara effortlessly hoisted
-                
-                //Dhiraj seemed to stare past her for a moment, at an unspecified point on the wall "may she rest in peace."
-                
-                //"with this type of tr...he must have h h."
-                //"nope."
                 
                 br.close();
                 reader.close();     
@@ -417,8 +315,7 @@ public class FXMLProgressReportController implements Initializable {
                         FileReader r2 = new FileReader(installationPath + "/userdata/" + firstName + lastName + dob + "/ProgressReports.txt");              
                         BufferedReader b2 = new BufferedReader(r2); 
                 
-                //while avoiding...certain thoughts, as the figure in her arms was prone and at her mercy                       
-                //trying not to let her mind take that particular train of thought/trying not to, out of habit, derive enjoyment from
+                
                 
                         while((cpn = b2.readLine()) != null)
                         {
@@ -426,11 +323,7 @@ public class FXMLProgressReportController implements Initializable {
                             //System.out.println(previous + " Hello previous");
                             progressNotes.add(cpn);
                         }
-                        //a h borne of
-                        //picked her up gingerly, carrying her bridal-style towards 
                         
-                        //borne of eons & innumerable lte's on B
-                        //ucla squirrels, papyrus, 1
                         
                         previous = progressNotes.get(progressNotes.size() - 2).toString();
                         //System.out.println("previous: " + previous);
@@ -1146,7 +1039,7 @@ public class FXMLProgressReportController implements Initializable {
        catch(Exception e)
        {}   
     }
-    //Highlight (make bold): ASP.NET, Eclipse, Netbeans
+    
     //Upload RS
     //desired certifications: ceh, network administrator, secure programmer
     public void fillMotorActivity()
@@ -2325,18 +2218,7 @@ public class FXMLProgressReportController implements Initializable {
                         cbc.setSelected(true);
                     }
                     
-                } //It's nothing you've not already been through...honey. I promise~. Jana eyed her dubiously. I am not just some doll/toy to satisfy your sick fantasies/fetishes. Sitara's gaze hardened. "I quite disagree. You ARE exactly that, and You *would be* that and more/even more (or less, depending on how you look at it), if I weren't on this leash.""you would be that and *less* if this collar wasn't constricting me so..." she took a few steps forwards. She/Jana knew she should back away...no...run away/leave/yet she  founded herself rooted to the spot by that very same gaze. drawn in by her lustful  her eyes took on a sadistic gleam "be glad I'm feeling/I'm being forced to be merciful today."
-        //that look of yours says that you could r & k me like...100 times over. Just saying..."
-        //"Oh I could~...and desecratevravish your lovely remains...wouldn't that be fun!"
-                
-                //too bad I enjoy having you as a playmate right here. Sitara ran a pointed/sharp nail [across her cheek] Jana found herself pressed to the wall.
-       
-               
-               
-               
-       //...in which case I would already be dead and all that...just saying...
-       //squirmed/moaned helplessly, a helpless victim to Sitara's roving hands, her body betraying her
-       //this is all I am permitted to do atm, but it will suffice.
+                } 
        }
        catch(Exception e)
        {}
@@ -2361,11 +2243,7 @@ public class FXMLProgressReportController implements Initializable {
                 
                 
        }catch(Exception e){}
-               //dripping/sopping w f h.
-               //"Sit; I've seen what you do with dolls, under the table" XD
-               //playing with a slave under the table
-        
-               //div of her already meager . She struggled pitifully against the bonds.
+              
     }
     
     public void fillEnd()
@@ -2382,8 +2260,7 @@ public class FXMLProgressReportController implements Initializable {
 //blanklabs, vitd, hivscreen, vitaminb12folicacid, ua, uds, selectrolyte, lithium, lamictallevel, 
         //trileptallevel, depakotelevel, bmp, tft, lft, hgba1c, lipidprofile, cmp, cbc;
         
-                //handed her the     , reluctantly.
-                //"just as long as you don't do that stuff to me or in my presence it's all good"
+                
                 
                 for(int i = 0; i < ssArray.length; i++)
                 {
@@ -2580,7 +2457,7 @@ public class FXMLProgressReportController implements Initializable {
        catch(Exception e)
        {}
     }
-    //EDA, AA, P M; Matrices
+    
     public void fillImpulseControl()
     {
         //impulsecontrolgood, impulsecontrolfair, impulsecontrolpoor, impulsecontrolimproving
@@ -3156,9 +3033,8 @@ public class FXMLProgressReportController implements Initializable {
     
     public void fillPerception()
     {
-            try{//any new tortures for me? Why choose wisdom when I was better off in ignorance? Wisdom is torture. The bastard's laughing. "It's quite the opposite. You misunderstand, heavily/badly.
-            //the only thing this has t m is that my l is not in fact, infallible
-                //Sti mil jga, huh?
+            try{//any new tortures for me? Why choose wisdom when I was better off in ignorance? Wisdom is torture. "It's quite the opposite. You misunderstand, heavily/badly.
+     
                 FileReader reader = new FileReader(currentFillPath + "perception.txt");
                 BufferedReader br = new BufferedReader(reader); 
                 String ss = br.readLine();
@@ -3187,7 +3063,7 @@ public class FXMLProgressReportController implements Initializable {
                         derealization.setSelected(true);
                     }
                     if(ssArray[i].equalsIgnoreCase("commandah"))
-                    {//you know it will cost you your    , and yet you will let it do so. Smart Kid.
+                    {
                         commandah.setSelected(true);
                     }
                     if(ssArray[i].equalsIgnoreCase("delusions"))
@@ -3211,7 +3087,7 @@ public class FXMLProgressReportController implements Initializable {
     }
     
     public void fillThoughtContent()
-    {//ch act as filters, letting only selected info through...however...h ch's do in fact, rep tr of higher orders //the tec in particular... [the ecstasy portal XDD]
+    {
                 try{
                 FileReader reader = new FileReader(currentFillPath + "thoughtcontent.txt");
                 BufferedReader br = new BufferedReader(reader); 
@@ -3221,7 +3097,7 @@ public class FXMLProgressReportController implements Initializable {
                 
                 String[] ssArray = ss.split(",");
                 
-//draped a leg over        
+
         //logicalcoherent, povertyofcontent, ideasofreference, delusions, obsessions, phobias, paranoidideation;
                 for(int i = 0; i < ssArray.length; i++)
                 {
@@ -3253,21 +3129,9 @@ public class FXMLProgressReportController implements Initializable {
                     {
                         paranoidideation.setSelected(true);
                     }
-//so WHAT if ym/h's a multi-s b? He's still ym and the greater portion will always remain unmanifested. So it really makes no difference to you
-//I...                    
-//why does that sound both good and absolutely terribleeven worse to me at the same time/simultaneously? Sitara bowed her head.
-//but here's the key point- a unit still defers to the composite, in other words, you, asb do not have/hold the same weight as H.
-                    
+
                 }
-//I still look forward to the day y'll km D-j.
-//As do I.
-//it's like qg vs tF lol.
-                
-                
-//so this whole scenario implies that the u's thv's are eq/more fund, right/correct?
-//yes. you got it.
-                
-//btw, m can sh info, and sp can share aw BUT NOT INFO, which should explain the other problem
+
        }
        catch(Exception e)
        {}
@@ -3619,7 +3483,7 @@ public class FXMLProgressReportController implements Initializable {
         {
             labs = labs + "vitd,";
         }
-        //I HATE women.
+        
         if(hivscreen.isSelected() == true)
         {
             labs = labs + "hivscreen,";
@@ -3911,11 +3775,10 @@ public class FXMLProgressReportController implements Initializable {
     }
     
     public void saveTreatmentPlan()
-    {//and to thoroughly corrupt him...yes, that sounded like a nice goal. [like the good lil demon she is].
-        //swratmipa/swratm in app
+    {
         
         //TextField treatmentplantextfield;
-        //have I really taught you that much? have you really found your soln, or are yjd?
+        
         try
         {
                     File cFile = new File(installationPath + "/userdata/" + firstName.toLowerCase() + lastName.toLowerCase() + dob + "/ProgressNotes/" + currentPN + "/treatmentplantextfield.txt");
@@ -3925,10 +3788,10 @@ public class FXMLProgressReportController implements Initializable {
                     bw.close();
                     writ.close();
              //you say that/you act concerned, yet why you don't answer me/this. You've always answered everything else in the past. I don't understand.      Her tears threatened to fall/spill again.
-        }//p f a a...fingers
-        //dangled uselessly at her side. For some unfathomable reason, Amar had decided to leave her/had decided to leave. But Amar was always unfathomable, really, second to only D/ h M in unfathom-ability.
+        }
+        //dangled uselessly at her side. For some unfathomable reason, Amar had decided had decided to leave. But Amar was always unfathomable, really, second to only D/ h M in unfathom-ability.
         
-        //H M...she almost didn't want to think about what ...
+        
         catch(IOException e){
         //    System.out.println("reached here");
         }
@@ -3940,8 +3803,8 @@ public class FXMLProgressReportController implements Initializable {
                 BufferedWriter bw = new BufferedWriter(writ);
                 writ.append(treatmentplanbox1.getText());
                 bw.close();
-                writ.close();}      //the ebb and flow of the colors/the changing colors 
-           catch(IOException e){}   //swirling around her, like little waves...of pure ecstasy/bliss
+                writ.close();}      
+           catch(IOException e){}   
         
         //[hand crushed/stuck underneath boulder/rock]
         //she lifted the boulder fractionally attempted to move her hand out from underneath/wriggle her hand out from underneath the   , only to be rewarded with sharp bursts/bolts of pain that travelled 
@@ -3980,9 +3843,7 @@ public class FXMLProgressReportController implements Initializable {
         //    System.out.println(exception);
         }
     }
-    //she almost pitied the poor fool.
-    //"if this is how you/this is your track record...let me guess...he (your prev ) hanged himself?"
-    //"no. he's still alive and well." a slight grin/a demented grin "I'm sure he realized that would accomplish nothing in terms of his att to me."
+    
     public void saveSeverityOfPresentingIllness()
     {
         
@@ -4176,9 +4037,7 @@ public class FXMLProgressReportController implements Initializable {
         catch(IOException exception){
         //    System.out.println(exception);
         }
-//"we only ever f i l w forms, Sitara"
-//I don't think that's true. someone would just *s* something was off.
-//smart kid.
+
     }
     
     public void saveSideEffects()
@@ -4535,16 +4394,7 @@ public class FXMLProgressReportController implements Initializable {
     
     public void savePerception()
     {
-        //the bones were easily crushed underfoot... "well...what do we have here?"
-        //no longer felt the familiar rush when their bones...
-        //She sighed wearily "I'm no longer a monster, Jana. I ceased to be one a long time ago. If I told myself that I'd be "
-        //"Well, so much the better for me, then. It looks like I don't have much to worry about! She pulled her close.
-        
-        //J trying to cheer her up-
-        //"You just seem so tired, angry/b-ed, and well, old."
-        //if you're going to blame anyone, blame your teacher. He turned me into this/made me become like this.
-        //everything was done with a sense of detachment, she could derive no more joy from the same actions
-        
+     
 //visualhallucinations, auditoryhallucinations, depersonalization, derealization, commandah, delusions2, illusions, perceptionnoimpairment;
         String p = " ";
         
@@ -4599,10 +4449,6 @@ public class FXMLProgressReportController implements Initializable {
     
     public void saveThoughtContent()
     {
-        //keywords to search: "and offer no apologies"
-        //logicalcoherent, povertyofcontent, ideasofreference, delusions, obsessions, phobias, paranoidideation;
-        // /Reordered Chaos  XDD
-        
         String thoughtContent = " ";
         //hummus/tahini, "steak", p seeds/walnuts, k p + sm papr; curry, hazelnut meal + a fig + 1tsp pb + 1tsp white flour + a few drops of maple syrup
         //get some (pepper) A1!!!
@@ -5032,28 +4878,11 @@ public class FXMLProgressReportController implements Initializable {
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    //found herself admiring her perfect breasts, each of which ended in a pert/cute nipple. 
-    //which sloped downwards to reveal a perfect midriff form a perfect "v" at the juncture of her hips
-    //"See something you like?"
-    //Sitara nearly choked on her/her body temperature rising by degrees now.
-    
-    //the urge was getting too persistent to deny/ignore any longer, she _____ her head, frustrated.
-    //afraid that her control would snap/slip and she would pounce, yet no longer caring./yet just barely managing to care/caring any longer. 'It's time to leave...before I...before my master punishes me in ways that would make hell look like '.
-    //'uh-oh'
-    //she glanced sideways at the   , knowing that there was no opportunity to
-    
-    //she excused herself from the   , making a mad-dash for the 
-    //slipping off the/her waistband easily 
-    //and admiring the 
 
+    
+    
+    
+    
     
     
     
@@ -5173,7 +5002,7 @@ public class FXMLProgressReportController implements Initializable {
                     bw.close();
                     writ.close();
                     
-        }//eternal/eternity- real death, precipice, endgame       //eternity denied- death denied             //eternity's reach- better than death
+        }//eternal/eternity- real death, precipice, endgame       //eternity denied- death denied            
         catch(IOException e){}
     }
     //your creativity never ceases to amaze me
@@ -5245,12 +5074,11 @@ public class FXMLProgressReportController implements Initializable {
         catch(IOException e){}
     }
     
-    //what's your r/full n?
-    //d p
+    
     public void fillFromEval()
-    {//His a.
+    {
         fillNameAndDOB();
-    }//what's in it? //where did yl[htd]this?
+    }
     public void fillFromPreviousNote()   //tmaboutyslf...how dylhtdt?
     {
     
@@ -5261,7 +5089,7 @@ public class FXMLProgressReportController implements Initializable {
     }
     
     public void fillNameAndDOB()
-    {//easily finding the "problem" b/w
+    {
         
         try
         {          
@@ -5273,7 +5101,7 @@ public class FXMLProgressReportController implements Initializable {
         {}
         
     }
-    //ete'l leg'y
+    
     
     
     
@@ -5369,7 +5197,7 @@ public class FXMLProgressReportController implements Initializable {
                            
                            
         XWPFDocument doc = new XWPFDocument();
-        //due to the redirection of these e's, even physically, your str will begin to deteriorate. Corpse-like, in other words.
+        
         
         /*XWPFParagraph para = doc.createParagraph();
         para.setAlignment(ParagraphAlignment.CENTER);
@@ -7422,13 +7250,7 @@ public void export()
     
     
     
-   }//I thought you liked/enjoyed talking b w/ me...so why are you getting ann? stitches; tick demo; 1; article on planarians where it says "cuz the telomerase levels remain constant..."
-//Her lips quirked upwards in an amused grin, "your head."
-
-//His lips quirked upwards in an amused grin, "your head."
-//GOWoG
-
-//"come back"
+   }
 
 
 
@@ -7437,8 +7259,3 @@ public void export()
 
 
 
-//the difference b/w planarians and other bugs/insects--> the "be-anything" (undifferentiated) pluripotent stem cells
-//so yeah, that analogy doesn't work...
-//rather than pancreatic cancer (for example)...it's more like cancer of anything? Lol
-//so would a cancer IN THE PLURIPOTENT STEM CELLS (ie. nothing tells itthosethatcell to stop dividing/or conversely something tells the pluripotent stem cell to keep dividing)/neoblasts imply that the planarian would just become huge and then die
-//a cancer in a differentiated cell (like a muscle/liver/pharynx/pancreas/orwhateverthehellaplanarianactuallyhas cell for example), on the other hand, would be just like in any other creature
