@@ -116,7 +116,7 @@ public class HomeController implements Initializable {
      * Initializes the controller class.
      */
     
-    //tabs; fix refining spaces, pres, HAL photos & resume backup
+    // HAL photos & resume backup
     @FXML
     AnchorPane ap, masterPane;
     @FXML
@@ -219,7 +219,7 @@ public class HomeController implements Initializable {
     RadioButton yes1, yes2, no1, no2;
             
             
-    //"This document has been digitally signed by A G MD"
+    
     
     //public static boolean passLoaded = false;
     String firstName;
@@ -237,9 +237,7 @@ public class HomeController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle rb) {
                 
-//upload R S after the changes you made a few months ago
 
-//google: completed psychiatric evaluation (word & pdf)
 //start with the forum and the common questions page, add-on the profile page and private messaging features
 
         //passLoaded = false;
